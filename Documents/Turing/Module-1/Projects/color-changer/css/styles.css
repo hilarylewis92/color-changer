@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+}
+
+button {
+  font-family: 'Open Sans', bold 700;
+  color: #FFFFFF;
+  background-color: #E5B6D5;
+  border-style: 3px solid;
+  border-color: #B2479A #CC7FB5;
+}
